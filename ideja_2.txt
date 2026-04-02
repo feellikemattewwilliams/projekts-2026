@@ -1,17 +1,21 @@
 Kāds varētu būt projekta nosaukums?
-
+“Clicker Spēle” (Idle Clicker)
 
 Ko projekts dara vienā teikumā?
-
+Spēlētājs klikšķina uz pogas, lai pelnītu punktus, un pēc tam var pirkt uzlabojumus un uzlabot savu pogu, lai iegūtu vairāk punktu.
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
-
+Šis projekts risina garlaicības problēmu, jo situācijās, kad nav ko darīt, lietotājs var pavadīt laiku, spēlējot šo spēli.
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
-
+Šo spēli var spēlēt jebkura vecuma cilvēki, jo tā ir vienkārša un viegli saprotama.
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
-
+Lietotājs mijiedarbosies ar programmu caur vienkāršu grafisko interfeisu (GUI), klikšķinot ar peli uz pogas.
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
-
+Klikšķināšana, lai iegūtu punktus
+Punktu skaitītājs
+Uzlabojumi (piemēram, vairāk punkti par klikšķi)
+Automātiska punktu pelnīšana (idle sistēma)
+Saglabāšana (progress netiek zaudēts)
