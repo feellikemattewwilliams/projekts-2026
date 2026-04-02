@@ -1,17 +1,21 @@
 Kāds varētu būt projekta nosaukums?
-
+“Atmiņas Spēle” (Memories)
 
 Ko projekts dara vienā teikumā?
-
+Spēlētājs atver kartītes un mēģina atrast vienādus pārus, izmantojot atmiņu.
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
-
+Šis projekts ir izklaides un mācību rīks, kas palīdz uzlabot atmiņu, koncentrēšanos un domāšanas prasmes.
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
-
+Galvenie lietotāji būs bērni, studenti un spēlētāji, kuri vēlas trenēt savu atmiņu.
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
-
+Lietotājs mijiedarbosies ar programmu caur vienkāršu grafisko interfeisu (GUI), klikšķinot uz kartītēm ar peli, lai tās atvērtu.
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
-
+Kartīšu sajaukšana spēles sākumā
+Kartīšu apgriešana (atvēršana)
+Pāru pārbaude (vai kartītes sakrīt)
+Punktu vai gājienu skaitīšana
+Spēles beigu noteikšana (kad visi pāri atrasti)
