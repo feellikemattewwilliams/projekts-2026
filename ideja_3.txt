@@ -1,17 +1,21 @@
 Kāds varētu būt projekta nosaukums?
-
+“Špions”
 
 Ko projekts dara vienā teikumā?
-
+Spēle kompānijai: uz telefona tiek parādīts vārds, un spēlētāji pa kārtai to skaidro, bet viens spēlētājs – špions – nezina vārdu un cenšas to noskaidrot, vienlaikus cenšoties palikt nepamanīts.
 
 Kādu problēmu šis projekts risina? (Vai tas ir rīks produktivitātei, izklaidei, datu analīze vai kas cits?)
-
+Spēle ļauj izklaidēties kompānijā, pārvarēt garlaicību un trenēt uzmanību, loģisko domāšanu un spēju skaidrot vārdus.
 
 Kas būs šī rīka galvenais lietotājs? (Piemēram, paši studenti, uzņēmēji, spēlētāji vai datu pētnieki)
-
+Visu vecumu cilvēki – draugi un ģimenes locekļi, kas vēlas jautri pavadīt laiku kopā.
 
 Kā lietotājs mijiedarbosies ar programmu (konsolē, Telegram bots, vienkāršā GUI)?
-
+Spēle darbojas uz viena viedtālruņa ar skārienekrānu: spēlētāji pa kārtai skatās vārdu un skaidro to pārējiem, cenšoties neatklāt špionu.
 
 Kādas ir 3–5 galvenās funkcijas (must-have)?
-
+Nejauša vārda parādīšana visiem spēlētājiem, izņemot špionu
+Nejaušs špiona izvēles mehānisms
+Taimeris vai laika ierobežojums katram gājienam
+Balsošanas funkcija, lai noteiktu, kurš ir špions
+Spēles beigās parādīt špionu un vārdu
