@@ -19,3 +19,15 @@ Kartīšu apgriešana (atvēršana)
 Pāru pārbaude (vai kartītes sakrīt)
 Punktu vai gājienu skaitīšana
 Spēles beigu noteikšana (kad visi pāri atrasti)
+
+5 Funkcionālās prasības:
+Spēle sākumā sajauc kartītes nejaušā kārtībā.
+Lietotājs var uzklikšķināt uz kartītēm, lai tās atvērtu.
+Sistēma pārbauda, vai divas atvērtās kartītes ir vienādas.
+Spēle skaita lietotāja gājienus vai punktus.
+Spēle beidzas, kad visi pāri ir atrasti.
+
+3 Nefunkcionālās prasības:
+Spēlei jābūt viegli lietojamai un saprotamai.
+Spēlei jādarbojas ātri un bez kļūdām.
+Spēlei jābūt ar vienkāršu un skaidru dizainu.
