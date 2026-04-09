@@ -19,3 +19,15 @@ Punktu skaitītājs
 Uzlabojumi (piemēram, vairāk punkti par klikšķi)
 Automātiska punktu pelnīšana (idle sistēma)
 Saglabāšana (progress netiek zaudēts)
+
+5 Funkcionālās prasības:
+Lietotājs var klikšķināt uz pogas, lai iegūtu punktus.
+Sistēma parāda punktu skaitu ekrānā.
+Lietotājs var iegādāties uzlabojumus par punktiem.
+Spēle automātiski piešķir punktus laika gaitā (idle funkcija).
+Spēle saglabā lietotāja progresu.
+
+3 Nefunkcionālās prasības:
+pēlei jābūt vienkāršai un viegli saprotamai.
+Spēlei jādarbojas ātri un bez aiztures.
+Spēlei jābūt ar skaidru un lietotājam draudzīgu dizainu.
