@@ -19,3 +19,15 @@ Nejaušs špiona izvēles mehānisms
 Taimeris vai laika ierobežojums katram gājienam
 Balsošanas funkcija, lai noteiktu, kurš ir špions
 Spēles beigās parādīt špionu un vārdu
+
+5 Funkcionālās prasības:
+Spēle izvēlas vienu spēlētāju kā špionu.
+Spēle parāda vārdu visiem spēlētājiem, izņemot špionu.
+Spēlē ir taimeris katram gājienam. 
+Spēlētāji var balsot, kurš ir špions.
+Spēles beigās tiek parādīts špions un pareizais vārds.
+
+3 Nefunkcionālās prasības:
+Spēlei jābūt viegli lietojamai uz viena telefona.
+Spēlei jādarbojas ātri un bez kļūdām.
+Spēlei jābūt ar vienkāršu un saprotamu dizainu.
