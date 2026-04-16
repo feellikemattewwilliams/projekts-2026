@@ -31,3 +31,18 @@ Spēle saglabā lietotāja progresu.
 pēlei jābūt vienkāršai un viegli saprotamai.
 Spēlei jādarbojas ātri un bez aiztures.
 Spēlei jābūt ar skaidru un lietotājam draudzīgu dizainu.
+
+Cik ļoti mani aizrauj šī tēma?
+Man šī tēma patīk, jo clicker spēles ir vienkāršas, bet tajā pašā laikā interesantas. Ir forši redzēt, kā punkti palielinās un kā var uzlabot spēli.
+
+Cik viegli ideja ir realizējama atbilstoši manam pašreizējam zināšanu līmenim? (1 — grūti, 5 — viegli)
+4 — ideja nav ļoti grūta, jo pamatā ir klikšķināšana un skaitītāji, bet uzlabojumu sistēma un saglabāšana var būt nedaudz sarežģītāka.
+
+Vai šī programma atrisina kādu reālu problēmu vai ir noderīga, saistoša ikdienā?
+Tā vairāk ir izklaide, kas palīdz pavadīt laiku, kad ir garlaicīgi. Tā nav ļoti nopietna problēma, bet tomēr noder brīvajā laikā.
+
+Vai šī programma atbilst visiem vērtēšanas kritērijiem?
+Jā, jo ir lietotāja darbības (klikšķināšana), datu apstrāde (punkti), loģika (uzlabojumi, idle sistēma) un arī vizuāls interfeiss.
+
+Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotājam?
+Domāju, ka būs viegli parādīt, jo visi uzreiz sapratīs, kas jādara — klikšķini un pelni punktus. Varēs arī parādīt uzlabojumus un kā spēle attīstās.
