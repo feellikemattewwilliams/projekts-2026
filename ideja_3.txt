@@ -31,3 +31,18 @@ Spēles beigās tiek parādīts špions un pareizais vārds.
 Spēlei jābūt viegli lietojamai uz viena telefona.
 Spēlei jādarbojas ātri un bez kļūdām.
 Spēlei jābūt ar vienkāršu un saprotamu dizainu.
+
+Cik ļoti mani aizrauj šī tēma?
+Man šī tēma ļoti patīk, jo tā ir balstīta uz reālu spēli, ko var spēlēt ar draugiem. Ir interesanti, ka spēlē ir noslēpums un jādomā līdzi.
+
+Cik viegli ideja ir realizējama atbilstoši manam pašreizējam zināšanu līmenim? (1 — grūti, 5 — viegli)
+3 — ideja nav ļoti viegla, jo jāizveido spēlētāju loģika, nejaušības izvēle un balsošana, bet tas ir izdarāms ar pamata zināšanām.
+
+Vai šī programma atrisina kādu reālu problēmu vai ir noderīga, saistoša ikdienā?
+Jā, tā palīdz cilvēkiem izklaidēties kompānijā un padara pasākumus interesantākus. Tā arī trenē domāšanu un komunikāciju.
+
+Vai šī programma atbilst visiem vērtēšanas kritērijiem?
+Jā, jo ir lietotāja ievade, loģika (špions, vārdi, balsošana), nejaušība un arī skaidrs spēles process.
+
+Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotājam?
+Domāju, ka šo būs ļoti forši parādīt, jo var iesaistīt klasi spēlē. Būs interesanti un viegli saprotami, kas notiek.
