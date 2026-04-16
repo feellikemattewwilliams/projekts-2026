@@ -31,3 +31,18 @@ Spēle beidzas, kad visi pāri ir atrasti.
 Spēlei jābūt viegli lietojamai un saprotamai.
 Spēlei jādarbojas ātri un bez kļūdām.
 Spēlei jābūt ar vienkāršu un skaidru dizainu.
+
+Cik ļoti mani aizrauj šī tēma?
+Man šī tēma diezgan patīk, jo ir interesanti veidot spēli un redzēt, kā tā darbojas. Patīk arī tas, ka to var pats izmēģināt.
+
+Cik viegli ideja ir realizējama atbilstoši manam pašreizējam zināšanu līmenim? (1 — grūti, 5 — viegli)
+4 — nav pārāk grūti, jo tiek izmantotas pamata lietas, ko es jau mācos, bet GUI var būt nedaudz sarežģītāks.
+
+Vai šī programma atrisina kādu reālu problēmu vai ir noderīga, saistoša ikdienā?
+Jā, tā ir noderīga, jo palīdz trenēt atmiņu un var izmantot arī izklaidei.
+
+Vai šī programma atbilst visiem vērtēšanas kritērijiem?
+Jā, jo ir gan loģika, gan lietotāja darbības, gan vizuālā daļa, un viss kopā strādā kā pilna programma.
+
+Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotājam?
+Domāju, ka būs viegli parādīt, jo spēle ir vienkārša un visiem saprotama. Varēs uzreiz redzēt, kā tā strādā.
