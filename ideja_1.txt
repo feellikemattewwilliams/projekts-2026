@@ -46,3 +46,21 @@ Jā, jo ir gan loģika, gan lietotāja darbības, gan vizuālā daļa, un viss k
 
 Cik efektīgi un saprotami šo projektu varēs nodemonstrēt klasei un skolotājam?
 Domāju, ka būs viegli parādīt, jo spēle ir vienkārša un visiem saprotama. Varēs uzreiz redzēt, kā tā strādā.
+
+Atrast un salīdzinat vismaz divus līdzīgus jau esošus risinājumus.
+1. https://www.helpfulgames.com/subjects/brain-training/memory.html
+2. https://wordwall.net/resource/33355672/spongebob-memory-game
+
+Analizēt esošo risinājumu priekšrocības, trūkumus un lietojamības aspektus. (uzrakstīt plusus un mīnusus)
+1. +Daudz spēļu variantu (kāršu skaits un laiks)
+   +Spēlē ir "Recent activities in this game" kur spēlētājs var apskatīt, kādus rezultātus ir sasnieguši citi spēlētāji
+   +Spēlē ir "Comments" kur spēlētājs var atstāt savu atsauksmi par šo spēli
+   -Daudz reklāmas
+   -Neizskatīga lietotāja saskarne
+2. +Ir animācijas
+   +Kartiņas ar multfilmas tematiku
+   -Nav iespējams izvēlēties kartīšu skaitu un grūtības pakāpi
+   -Ļoti garas animācijas
+Izveidot ekrānšaviņus lai būtu redzams kā izskatās risinājums.
+1. 
+Dotu informāciju saglabāt jaunā datnē Github repozitorijā.
